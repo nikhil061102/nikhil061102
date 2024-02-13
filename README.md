@@ -5,11 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil061102&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil061102" /> </p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil061102" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil061102" alt="nikhil061102" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Devops & Rust and Golang**
@@ -21,6 +16,8 @@
 - 📫 How to reach me **nikhilharshita6@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nQkieS9etYd1NoEfbNcnNnFVbLt-dVHA/view?usp=sharing](https://drive.google.com/file/d/1nQkieS9etYd1NoEfbNcnNnFVbLt-dVHA/view?usp=sharing)
+
+- ⚡ Fun fact **Yes, I am a programmer. Yes, I prefer Light Mode. We exist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
