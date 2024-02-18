@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **nikhilharshita6@gmail.com**
+- 📫 How to reach me **nikhilharshita6@gmail.com | 2021mcb1240@iitrpr.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nQkieS9etYd1NoEfbNcnNnFVbLt-dVHA/view?usp=sharing](https://drive.google.com/file/d/1nQkieS9etYd1NoEfbNcnNnFVbLt-dVHA/view?usp=sharing)
 
